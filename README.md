@@ -2,4 +2,4 @@
 ##This is another line
 these are the changes!!!!!!!!!!!!
 new line here
-some changes there -> fuck!! error error error
+some changes there [comflict resolved]
